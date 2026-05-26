@@ -9,3 +9,4 @@ A quick reference for common Linux and Git commands.
 | Command | Description | Example |
 |---------|-------------|---------|
 | `git init` | Initialize a new Git repository | `git init` |
+| `git clone` | Clone an existing repository | `git clone <url>` |
