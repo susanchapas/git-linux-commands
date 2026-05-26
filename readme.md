@@ -29,3 +29,5 @@ A quick reference for common Linux and Git commands.
 | `git push` | Upload local commits to a remote | `git push origin master` |
 | `git pull` | Fetch and merge changes from the remote | `git pull origin master` |
 | `git branch` | List, create, or delete branches | `git branch feature/login` |
+| `git checkout` | Switch branches or restore files | `git checkout feature/login` |
+| `git merge` | Merge another branch into the current one | `git merge feature/login` |
