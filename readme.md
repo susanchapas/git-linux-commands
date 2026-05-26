@@ -12,6 +12,9 @@ A quick reference for common Linux and Git commands.
 | `mkdir` | Create a new directory (`-p` for nested paths) | `mkdir -p src/utils` |
 | `rm` | Remove files or directories (`-r` recursive, `-f` force) | `rm -rf build/` |
 | `cp` | Copy files or directories (`-r` recursive) | `cp -r src/ backup/` |
+| `mv` | Move or rename files and directories | `mv old.txt new.txt` |
+| `cat` | Display contents of a file | `cat readme.md` |
+
 
 
 ## Git Commands
