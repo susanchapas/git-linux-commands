@@ -23,3 +23,4 @@ A quick reference for common Linux and Git commands.
 | `git status` | Show the working tree status | `git status` |
 | `git add` | Stage changes for commit (`.` for all) | `git add readme.md` |
 | `git commit` | Record staged changes to the repository | `git commit -m "add cheat sheet"` |
+| `git push` | Upload local commits to a remote | `git push origin master` |
