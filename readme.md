@@ -24,3 +24,5 @@ A quick reference for common Linux and Git commands.
 | `git add` | Stage changes for commit (`.` for all) | `git add readme.md` |
 | `git commit` | Record staged changes to the repository | `git commit -m "add cheat sheet"` |
 | `git push` | Upload local commits to a remote | `git push origin master` |
+| `git pull` | Fetch and merge changes from the remote | `git pull origin master` |
+| `git branch` | List, create, or delete branches | `git branch feature/login` |
