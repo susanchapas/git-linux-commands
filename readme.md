@@ -10,7 +10,8 @@ A quick reference for common Linux and Git commands.
 | `ls` | List directory contents (`-l` long, `-a` all, `-h` human-readable) | `ls -lah` |
 | `cd` | Change directory (`..` goes up, `~` goes home) | `cd ~/projects` |
 | `mkdir` | Create a new directory (`-p` for nested paths) | `mkdir -p src/utils` |
-
+| `rm` | Remove files or directories (`-r` recursive, `-f` force) | `rm -rf build/` |
+| `cp` | Copy files or directories (`-r` recursive) | `cp -r src/ backup/` |
 
 
 ## Git Commands
