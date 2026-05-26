@@ -39,3 +39,6 @@ A quick reference for common Linux and Git commands.
 | `git merge` | Merge another branch into the current one | `git merge feature/login` |
 | `git log` | Show commit history (`--oneline` for compact view) | `git log --oneline` |
 | `git diff` | Show changes between commits, branches, or files | `git diff HEAD~1` |
+| `git stash` | Temporarily save uncommitted changes | `git stash` |
+| `git reset` | Undo commits or unstage files (`--hard` discards changes) | `git reset --soft HEAD~1` |
+| `git remote` | Manage remote repository connections (`-v` for verbose) | `git remote -v` |
