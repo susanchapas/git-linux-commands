@@ -31,3 +31,6 @@ A quick reference for common Linux and Git commands.
 | `git branch` | List, create, or delete branches | `git branch feature/login` |
 | `git checkout` | Switch branches or restore files | `git checkout feature/login` |
 | `git merge` | Merge another branch into the current one | `git merge feature/login` |
+| `grep` | Search text using patterns (`-r` recursive, `-i` ignore case) | `grep -ri "TODO" src/` |
+| `find` | Search for files and directories | `find . -name "*.js"` |
+| `chmod` | Change file permissions | `chmod +x script.sh` |
