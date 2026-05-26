@@ -16,3 +16,4 @@ A quick reference for common Linux and Git commands.
 |---------|-------------|---------|
 | `git init` | Initialize a new Git repository | `git init` |
 | `git clone` | Clone an existing repository | `git clone <url>` |
+| `git status` | Show the working tree status | `git status` |
