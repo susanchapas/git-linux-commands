@@ -17,6 +17,10 @@ A quick reference for common Linux and Git commands.
 | `grep` | Search text using patterns (`-r` recursive, `-i` ignore case) | `grep -ri "TODO" src/` |
 | `find` | Search for files and directories | `find . -name "*.js"` |
 | `chmod` | Change file permissions | `chmod +x script.sh` |
+| `ps` | Show running processes (`aux` for all users, full format) | `ps aux` |
+| `kill` | Terminate a process by PID (`-9` force kill) | `kill -9 1234` |
+| `man` | Display the manual page for a command | `man grep` |
+| `sudo` | Run a command as the superuser | `sudo apt update` |
 
 
 ## Git Commands
